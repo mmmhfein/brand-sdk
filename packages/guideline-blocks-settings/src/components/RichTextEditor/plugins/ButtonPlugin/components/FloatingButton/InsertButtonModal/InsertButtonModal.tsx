@@ -2,7 +2,6 @@
 
 import { Label } from '@frontify/fondue/components';
 import { type CSSProperties, type ReactElement, type ReactNode, useState } from 'react';
-
 import { InsertModal } from '../../../../LinkPlugin/FloatingLink/InsertLinkModal/InsertModal';
 import { BlockStyles } from '../../../../styles';
 
